@@ -1,0 +1,17 @@
+{
+  "/(protected)/audits/page": "app/(protected)/audits/page.js",
+  "/(protected)/bookings/page": "app/(protected)/bookings/page.js",
+  "/(protected)/dashboard/page": "app/(protected)/dashboard/page.js",
+  "/(protected)/devices/page": "app/(protected)/devices/page.js",
+  "/(protected)/gadgets/[id]/edit/page": "app/(protected)/gadgets/[id]/edit/page.js",
+  "/(protected)/gadgets/page": "app/(protected)/gadgets/page.js",
+  "/(protected)/maintenances/page": "app/(protected)/maintenances/page.js",
+  "/(protected)/rooms/create/page": "app/(protected)/rooms/create/page.js",
+  "/(protected)/rooms/page": "app/(protected)/rooms/page.js",
+  "/(protected)/users/page": "app/(protected)/users/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/sign-up/page": "app/auth/sign-up/page.js"
+}

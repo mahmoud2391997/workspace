@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/mahmoudelsayed/Downloads/archive%20%2818%29/app/admin/dashboard/page.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function AdminDashboardPage() {\n  return (\n    <div className=\"p-8 max-w-4xl mx-auto\">\n      <h1 className=\"text-3xl font-bold\">Admin Dashboard</h1>\n      <p className=\"mt-4 text-slate-700\">This is a placeholder Admin Dashboard.</p>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;0BAAqB;;;;;;0BACnC,8OAAC;gBAAE,WAAU;0BAAsB;;;;;;;;;;;;AAGzC"}}]
+}
